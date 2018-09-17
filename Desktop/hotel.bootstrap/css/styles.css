@@ -1,0 +1,21 @@
+h2{
+  color:#DA70D6;
+  font-weight:700;
+}
+body{
+  background-image: url(http://thewallpaper.co/wp-content/uploads/2016/03/food-vegetables-meal-kitchen-hd-wallpaper-high-resolution-background-images-desktop-images-of-windows-amazing-cool-best-wallpaper-ever-images-pictures-1600x1020.jpg);
+  background-color:#508AA8;
+ margin:0;
+ width:100%;
+}
+li{
+  color: red;
+   font-weight:bold;
+}
+p{
+  color:#A52A2A;
+  text-align: center;
+}
+h1{
+  color: #FF0000;
+}
